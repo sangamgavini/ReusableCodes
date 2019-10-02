@@ -1,4 +1,4 @@
-package com.sangam.ReusableCodes
+package com.sangam.TexttoParquet
 
 import org.apache.spark._
 import org.apache.spark.rdd._
